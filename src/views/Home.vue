@@ -5,7 +5,7 @@
       <header1></header1>
      <div class='container-fluid  pro'>
           <div class='row ' >
-          <p class=' col-lg-12 col-sm-12 col-xs-12  text-center mb-0  small p-2' id='landingpl'>THE HAYDEN COLLECTIVE</p>
+          <p class=' col-lg-12 col-sm-12 col-xs-12  text-center mb-0  small p-2' id='landingpl'>THE THOMPS COLLECTIVE</p>
           <h1 class=' col-lg-12  col-sm-12 col-xs-12 text-center p-2' id='landingpc'>We design thoughtful, <br>livable spaces.</h1>
           <h6 class='col-sm-2  col-xs-2 mx-auto text-center p-2  border border-#fff' id='landingpv'>VIEW OUR WORK</h6>
           </div>

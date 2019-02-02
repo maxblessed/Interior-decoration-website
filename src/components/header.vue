@@ -61,6 +61,10 @@
 	font-weight:200px;
 	text-transform:uppercase;
 	font-family:verdana;
+  text-decoration: none;
+}
+.list:hover{
+  color:#778899;
 }
 .menu{
 	display: none;
